@@ -2,8 +2,18 @@ import javax.swing.JButton;
 
 public class GameBoard {
     private JButton[][] buttons;
+    private TIC_TAC_TOE_FRAME parentFrame; // Tham chiếu đến TIC_TAC_TOE_FRAME
 
-    public GameBoard(JButton[][] buttons) {
+    public GameBoard(JButton[][] buttons, TIC_TAC_TOE_FRAME parentFrame) {
+        this.buttons = buttons;
+        this.parentFrame = parentFrame;
+    }
+
+    public TIC_TAC_TOE_FRAME getParentFrame() {
+        return parentFrame;
+    }
+
+public GameBoard(JButton[][] buttons) {
         this.buttons = buttons;
     }
 
