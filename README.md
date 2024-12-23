@@ -32,7 +32,18 @@ Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Features <a name="features"></a>
-//Need to be completed
+*Gameplay:
+Two players alternate turns, marking their symbol (X or O).
+The game ends with a win or a tie.
+
+*Win condition:
+A player wins by placing five marks consecutively in a row, column, or diagonal.
+
+*Score tracking:
+The game keeps track of each player's score across multiple rounds.
+
+*Reset and exit options:
+Users can reset the board or exit the game at any time.
 
 ## UML Class Diagram <a name="uml"></a>
 ![Player](https://github.com/user-attachments/assets/59bde490-ced3-41b0-beb9-6722edfd4cdc)
