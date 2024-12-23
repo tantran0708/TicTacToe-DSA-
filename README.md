@@ -62,11 +62,11 @@ Direct: [Link](https://www.canva.com/design/DAGHJu_NM8E/qVYkYnAqmi0Qt21e085tIA/e
 
 ### Report
 Support: Google docs
-Direct: [Link](https://docs.google.com/document/d/1xghJOUx4FENhV5LLOcFQV1AYw9kRl5c0_IquaiXjIRU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0r2VKrn22qF2n1PI-xd_mHWWWe0mnzRoscnLazG73285ikQ9lODYnSF4g_aem_ZmFrZWR1bW15MTZieXRlcw)
+Direct: [Link](https://docs.google.com/document/d/14uW6pe4cCv-mOf5syANS35z75EybnFPhSOT3oI6wqz8/edit?tab=t.0)
 
 ## References <a name="references"></a>
 1. Data Structures and Algorithms Lectures (Dr. Vi Chi Thanh)
 2. Data Structures and Algorithms Labs (MSc. Thai Trung Tin)
 3. Chat GPT. Available at: https://chatgpt.com
 4. UML Design. Available at: IntelliJ IDEA
-5. inspired by: (https://github.com/tprajjwal/TIC-TAC-TOE-GAME/tree/main)
+5. inspired by: [Linh](https://github.com/tprajjwal/TIC-TAC-TOE-GAME/tree/main)
