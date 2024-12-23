@@ -32,46 +32,28 @@ Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Features <a name="features"></a>
-**Main Feature:**
-- Play, Restart, Pause
-- Generate piece
-- Playfield
-  
-**Extra feature:**
-- Drop piece
-- Next piece
-- Scoreboard
-- User ranking
-- Sound
-
-**Salient features**
-- __Main contribution__: User Interface - Self-designed layout.
-- The game sound is fresh and catchy.
-- Press “__R__” to restart the new game. 
-- Press “__Space__": to make the blocks fall immediately.
+//Need to be completed
 
 ## UML Class Diagram <a name="uml"></a>
 ![Player](https://github.com/user-attachments/assets/59bde490-ced3-41b0-beb9-6722edfd4cdc)
 
 ## Demo <a name="demo"></a> :
 
-#### Start Screen
-![tetrisscreen](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/d74c08b1-1f67-4abf-8288-dd353df6b804)
+#### Play Screen
+![Screenshot 2024-12-24 020242](https://github.com/user-attachments/assets/a50a53fd-1cc7-4b47-8e97-9e61a05bf102)
 
-#### Play Screen 
-![game start](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/22422ac3-6ad2-4fd5-ba66-2f7d90d1134f)
+#### Player X Wins Screen 
+![Screenshot 2024-12-24 020516](https://github.com/user-attachments/assets/158a798c-2527-4580-bd3a-6e2023265360)
 
-![game start 2](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/5467d13e-3692-4bcc-936a-fc8ae11e849b)
+#### Player O Wins Screen 
+![Screenshot 2024-12-24 020454](https://github.com/user-attachments/assets/ad7b15c3-ca4f-4f9f-8a1f-c4c6ae213c91)
 
-#### Pause Screen 
-![pause](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/3e1f55b7-d35b-4689-b06e-dc4395aa2b2f)
-
-#### Game Over Screen 
-![gameover](https://github.com/ltdoan2004/Tetris_OOP/assets/121221333/e50d0514-fc9c-48d6-b56a-9506b06b0c34)
+#### Tie Screen 
+![Screenshot 2024-12-24 020538](https://github.com/user-attachments/assets/4d8104a8-290d-4d4f-8ee7-86ac6f3f25ec)
 
 ### How to play :
 
-//Chưa làm
+Two players take turns marking X or O on a 5x5 board, the first person to create 5 consecutive symbols horizontally, vertically or diagonally wins.
 
 ## PowerPoint and Report <a name="report"></a>
 ### PowerPoint
@@ -83,10 +65,8 @@ Support: Google docs
 Direct: [Link](https://docs.google.com/document/d/1xghJOUx4FENhV5LLOcFQV1AYw9kRl5c0_IquaiXjIRU/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0r2VKrn22qF2n1PI-xd_mHWWWe0mnzRoscnLazG73285ikQ9lODYnSF4g_aem_ZmFrZWR1bW15MTZieXRlcw)
 
 ## References <a name="references"></a>
-1. Object-Oriented Programming (Dr. Tran Thanh Tung)
-2. Object-Oriented Programming (Dr. Nguyen Trung Nghia)
-3. How to Code Tetris in Java - RyiSnow. Available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=4897sJgt
-4. Chat GPT. Available at: https://chatgpt.com
-5. Copilot. Available at: https://copilot.microsoft.com
-6. UML Design. Available at: IntelliJ IDEA
-
+1. Data Structures and Algorithms Lectures (Dr. Vi Chi Thanh)
+2. Data Structures and Algorithms Labs (MSc. Thai Trung Tin)
+3. Chat GPT. Available at: https://chatgpt.com
+4. UML Design. Available at: IntelliJ IDEA
+5. inspired by: (https://github.com/tprajjwal/TIC-TAC-TOE-GAME/tree/main)
