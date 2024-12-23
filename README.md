@@ -84,4 +84,4 @@ Direct: [Link](https://docs.google.com/document/d/14uW6pe4cCv-mOf5syANS35z75Eybn
 2. Data Structures and Algorithms Labs (MSc. Thai Trung Tin)
 3. Chat GPT. Available at: https://chatgpt.com
 4. UML Design. Available at: IntelliJ IDEA
-5. inspired by: [Link](https://github.com/tprajjwal/TIC-TAC-TOE-GAME/tree/main)
+5. inspired by: https://github.com/tprajjwal/TIC-TAC-TOE-GAME/tree/main
