@@ -33,16 +33,20 @@ Language:
 
 ## Features <a name="features"></a>
 *Gameplay:
+
 Two players alternate turns, marking their symbol (X or O).
 The game ends with a win or a tie.
 
 *Win condition:
+
 A player wins by placing five marks consecutively in a row, column, or diagonal.
 
 *Score tracking:
+
 The game keeps track of each player's score across multiple rounds.
 
 *Reset and exit options:
+
 Users can reset the board or exit the game at any time.
 
 ## UML Class Diagram <a name="uml"></a>
