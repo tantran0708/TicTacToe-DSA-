@@ -36,6 +36,8 @@ public class GameController {
                     } else {
                         playerO.incrementScore();
                     }
+                    // Gọi phương thức cập nhật giao diện
+                    gameBoard.getParentFrame().updateScoreDisplay();
                     return;
                 }
             }
@@ -46,6 +48,7 @@ public class GameController {
             gameBoard.resetBoard();
         }
     }
+
 
     public void buttonClicked(JButton button) {
         if (button.getText().isEmpty()) {
